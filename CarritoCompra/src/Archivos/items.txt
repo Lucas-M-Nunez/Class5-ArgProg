@@ -1,0 +1,3 @@
+Jabon	1	40
+Pan	3	10
+Harina	2	100
